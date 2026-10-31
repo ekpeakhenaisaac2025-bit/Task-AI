@@ -1,0 +1,6 @@
+{
+  "name": "Task.ai",
+  "description": "AI execution system that turns problems into structured tasks, enforces approval gates and dependency checks, runs verified server-side workers, and reports evidence-backed outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
